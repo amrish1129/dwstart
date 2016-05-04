@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learn.dwstart.auth.GreetingAuthenticatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-21T15:04:05" hostname="Amrishs-MacBook-Pro.local" time="0.095">
+  <properties/>
+  <testcase name="testAuthenticate" classname="com.learn.dwstart.auth.GreetingAuthenticatorTest" time="0.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

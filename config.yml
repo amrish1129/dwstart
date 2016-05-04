@@ -1,0 +1,13 @@
+## Configuration file for dwstart application
+appName: dwstart!
+
+# User
+login: Amrish
+# Password
+password: password
+
+#Server Connectors
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
